@@ -1,0 +1,16 @@
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\frm_Calculator.exe
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\frm_Calculator.deps.json
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\frm_Calculator.runtimeconfig.json
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\frm_Calculator.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\frm_Calculator.pdb
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.Form1.resources
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.csproj.GenerateResource.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.AssemblyInfoInputs.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.AssemblyInfo.cs
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\refint\frm_Calculator.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.pdb
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.genruntimeconfig.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\ref\frm_Calculator.dll

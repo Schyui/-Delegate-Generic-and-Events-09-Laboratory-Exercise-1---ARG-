@@ -1,0 +1,17 @@
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\CalculatorApplication.exe
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\CalculatorApplication.deps.json
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\CalculatorApplication.runtimeconfig.json
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\bin\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\frm_Calculator.FrmCalculator.resources
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.csproj.GenerateResource.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfoInputs.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.AssemblyInfo.cs
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.csproj.CoreCompileInputs.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\refint\CalculatorApplication.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.pdb
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.genruntimeconfig.cache
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\ref\CalculatorApplication.dll
+C:\Users\Harvey Mellomida\source\repos\frm_Calculator\frm_Calculator\obj\Debug\net8.0-windows\CalculatorApplication.Properties.Resources.resources
